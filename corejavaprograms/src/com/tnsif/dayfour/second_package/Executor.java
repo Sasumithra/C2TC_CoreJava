@@ -1,4 +1,4 @@
-package com.tnsif.dayfour.two;
+package com.tnsif.dayfour.second_package;
 
 public class Executor {
 	public static void main(String[] args) {

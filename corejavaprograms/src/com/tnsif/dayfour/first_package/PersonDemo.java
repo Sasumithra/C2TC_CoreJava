@@ -1,4 +1,4 @@
-package com.tnsif.dayfour.first;
+package com.tnsif.dayfour.first_package;
 
 public class PersonDemo {
 	public static void main(String args[]) {
