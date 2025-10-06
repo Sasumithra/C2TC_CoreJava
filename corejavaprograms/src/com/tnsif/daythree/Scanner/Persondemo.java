@@ -1,4 +1,4 @@
-package day3.Scanner;
+package com.tnsif.daythree.Scanner;
 
 public class Persondemo {
 

@@ -1,4 +1,4 @@
-package corejavaprograms;
+package com.tnsif.dayone;
 
 public class PremitivedataTypes {
 

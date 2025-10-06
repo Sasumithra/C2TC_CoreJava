@@ -1,4 +1,4 @@
-package sasu;
+package com.tnsif.daytwo;
 
 public class switc {
 
